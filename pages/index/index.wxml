@@ -1,0 +1,9 @@
+<view class="box">
+  <view class="header wrapper">
+    <icon class="iconfont icon-jiangbei"></icon>
+    <icon class="iconfont icon-caidan"></icon>
+  </view>
+  <view class="search wrapper">
+    <input type="text" placeholder="搜索..." />
+  </view>
+</view>

@@ -1,0 +1,11 @@
+@import '../../style/iconfont.wxss';
+.box{
+  background-color: #21272e;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-bottom: 40rpx;
+}
